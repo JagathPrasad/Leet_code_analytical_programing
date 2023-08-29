@@ -7,7 +7,7 @@ string SumofTwo(int[] array, int target)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        for (int j = 1; j < array.Length; j++)
+        for (int j = 0; j < array.Length; j++)
         {
             if (i != j)
             {
