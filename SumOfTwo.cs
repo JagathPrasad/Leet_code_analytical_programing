@@ -1,3 +1,6 @@
+/*Problem: Assume you have 2 inputs, the first one is an array and the second is the target: 
+ * which is the sum of 2 elements in the array. 
+ * All you have to do is to find those 2 numbers and return their indices. */
 
 SumofTwo(new int[] { 1, 2, 4, 5, 64, 23, 3, 8 }, 8);
 string SumofTwo(int[] array, int target)
